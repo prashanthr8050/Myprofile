@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="pg_name" type="id"/>
+    <item name="profile_image" type="id"/>
+    <item name="mail" type="id"/>
+</resources>
